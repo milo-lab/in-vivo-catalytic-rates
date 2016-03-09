@@ -1,5 +1,5 @@
 # in-vivo-catalytic-rates
 
-This git repository holds scrips and numerical data to support the analysis performed for davidi et al. 2015, regarding the chractariztion of in vivo catalytic rate of enzymes and their correspondance toin vitro kcat measurements.
+This git repository holds scrips and numerical data to support the analyses performed for Davidi et al. 2016, regarding the chractariztion of in vivo catalytic rates of enzymes and their correspondance to in vitro kcat measurements.
 
 
